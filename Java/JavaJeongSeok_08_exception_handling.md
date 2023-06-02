@@ -31,7 +31,6 @@
 
 <br>
   <img src="https://github.com/sj921/TIL/assets/111365047/730bad63-c18a-41f8-8c75-5f4116c8dde2" width="400" height="auto"/>
-  <br>
   <img src="https://github.com/sj921/TIL/assets/111365047/b6bf630e-b3cc-44bd-8a59-efe4ddc92f6b" width="400" height="auto"/>
 <br>
 
