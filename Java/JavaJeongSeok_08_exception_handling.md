@@ -116,5 +116,40 @@ java.lang.ArithmeticException: / by zero
 6
 ```
 
+<br>
+
+**Multi catch블럭**
+- Multi catch블럭 : 내용이 같은 catch블럭을 하나로 합친 것 (JDK1.7부터 적용)
+
+```
+try {
+	...
+} catch (ExceptionA e) {
+  e.printStackTrace();
+} catch (ExceptionB e2) {
+  e.printStackTrace();
+} 
+
+// ▼▼▼
+
+try {
+	...
+} catch (ExceptionA | ExceptionB e) {
+  e.printStackTrace();
+} 
+```
+
+:potted_plant:  Multi Catch문 사용시 주의 사항
+- Multi Catch문에 사용된 예외들은 예외의 상속관계에서 부모와 자식관계에 있으면 안된다.
+  - 부모 타입의 catch문 하나만으로도 처리가 가능하다.
+- Multi Catch문에 사용된 예외들의 공통된 조상의 멤버만 사용할 수 있다.
+  - instanceof 연산을 통해 어느 예외의 인스턴스인지 판단 후 캐스팅해준 후 메서드를 사용한다.
+
+<br>
+
+
+
+
+
 
 
