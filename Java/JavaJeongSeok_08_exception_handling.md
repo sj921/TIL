@@ -29,3 +29,7 @@
   - RuntimeException클래스들 (+자손클래스) : 프로그래머의 실수로 발생하는 예외 → 예외 처리 선택
   - Exception클래스들 (+자손클래스) : 사용자의 실수와 같은 외적인 요인에 의해 발생하는 예외 → 예외 처리 필수
 
+![image](https://github.com/sj921/TIL/assets/111365047/730bad63-c18a-41f8-8c75-5f4116c8dde2){: width="300" height="300"){: .center}
+![image](https://github.com/sj921/TIL/assets/111365047/b6bf630e-b3cc-44bd-8a59-efe4ddc92f6b){: width="300" height="300"){: .center}
+
+
