@@ -4,7 +4,7 @@ Today I Learned
 <br>
 
 ## Java
-* [Java의정석 : chap08. 예외처리(exception handling)]()
+* [Java의정석 : chap08. 예외처리(exception handling)](Java/Jeongseok_08_Exception_Handling.md)
 
 <br>
 
