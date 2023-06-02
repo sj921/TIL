@@ -6,12 +6,9 @@
 
 ### 1. 프로그램 오류
 - 컴파일 에러와 런타임 에러
-  - 컴파일 에러(compile-time error) : 컴파일할 때 발생하는 에러
-    - 실행x
-  - 런타임 에러(runtime error) : 실행할 때 발생하는 에러
-    - 실행o & 프로그램 종료o
-  - 논리적 에러 : 작성 의도와 다르게 동작
-    - 프로그램 종료x
+  - 컴파일 에러(compile-time error) : 컴파일할 때 발생하는 에러 <span style="color: yellowgreen"> → 실행x </span>
+  - 런타임 에러(runtime error) : 실행할 때 발생하는 에러 <span style="color: yellowgreen"> → 실행o & 프로그램 종료o </span>
+  - 논리적 에러 : 작성 의도와 다르게 동작 <span style="color: yellowgreen"> → 실행o & 프로그램 종료x </span>
 
 ### 2. 예외 처리의 정의와 목적
 - 에러는 어쩔 수 없지만, 예외는 처리해야 한다.
@@ -34,7 +31,9 @@
   <img src="https://github.com/sj921/TIL/assets/111365047/b6bf630e-b3cc-44bd-8a59-efe4ddc92f6b" width="400" height="auto"/>
 <br>
 
-
+### 4. 예외의 발생과 catch블럭
+- try블럭에서 예외가 발생하면, 발생한 예외를 처리할 catch블럭을 찾는다.
+- 
 
 
 
