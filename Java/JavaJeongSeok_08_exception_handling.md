@@ -1,6 +1,6 @@
 # chap 08. 예외처리 (exception handling)
 
-출처 : Java의 정석 기초편
+  출처 : Java의 정석 기초편
 
 ## 1. 프로그램 오류
 
