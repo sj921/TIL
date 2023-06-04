@@ -4,7 +4,7 @@ Today I Learned
 <br>
 
 ## Java
-* 예외처리(exception handling)](Java/Jeongseok_08_Exception_Handling.md)
+* [예외 처리(exception handling)](Java/Jeongseok_08_Exception_Handling.md)
 
 <br>
 
