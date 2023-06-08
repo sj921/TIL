@@ -527,7 +527,8 @@ class Ex8_13 {
 	public static void main(String[] args) {
 		try {
 			install();
-		} catch(InstallException e) { // spaseException(원인 예외)가 InstallException에 포함(initCause())되어 연결된 예외가 되었다.
+		} catch(InstallException e) { 
+			// spaseException(원인 예외)가 InstallException에 포함(initCause())되어 연결된 예외가 되었다.
 			e.printStackTrace();
 		} catch(Exception e) {
 			e.printStackTrace();
