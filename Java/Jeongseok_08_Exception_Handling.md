@@ -1,6 +1,6 @@
 # chap 08. 예외처리 (exception handling)
 
-출처 : Java의 정석 (https://github.com/castello/javajungsuk_basic)
+출처 : Java의 정석_기초편 (https://github.com/castello/javajungsuk_basic)
 
 <br>
 
