@@ -596,7 +596,7 @@ class MemoryException2 extends Exception {
 ```
 [출력 결과]
 // 발생 예외
-InstallException: 설치 중 예외발생			  // 대략 정보
+InstallException: 설치 중 예외발생			// 대략 정보
 	at Ex8_13.install(Ex8_13.java:22)
 	at Ex8_13.main(Ex8_13.java:5)
 // 원인 예외
